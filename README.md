@@ -1,6 +1,6 @@
 # 📃 Vue3-kakao-maps-docs
 
-## Vue3로 카카오맵을 가장 손쉽게 사용하는 방법 얍!
+## Vue3로 카카오맵을 가장 손쉽게 사용하는 방법
 [가이드 문서 바로보기](https://vue3-kakao-maps-docs.vercel.app/)
 
 - [vue3-kakao-maps](https://www.npmjs.com/package/vue3-kakao-maps)의 가이드 문서
